@@ -217,7 +217,7 @@
 <circle r="5.5" fill="#fff" filter="url(#dot)"><animateMotion dur="9s" repeatCount="indefinite"><mpath xlink:href="#orbit"/></animateMotion></circle>
 <circle r="2.8" fill="#fff"><animateMotion dur="9s" repeatCount="indefinite"><mpath xlink:href="#orbit"/></animateMotion></circle></g>
 <g font-family="'Segoe UI',Helvetica,Arial,sans-serif">
-<text x="60" y="92" font-size="15" fill="#70dfff" letter-spacing="5" font-family="'Courier New',Consolas,Menlo,monospace">&gt; HELLO, WORLD. I'M</text>
+<text x="60" y="92" font-size="15" fill="#70dfff" letter-spacing="5" font-family="'Courier New',Consolas,Menlo,monospace">&gt; Hey. I'M</text>
 <text x="60" y="170" font-size="64" font-weight="800" fill="url(#nameGrad)" letter-spacing="1">KUNAL GOYAL</text>
 <g clip-path="url(#tc)"><text x="60" y="234" font-size="22" fill="#a9bdd5">Student Developer • Tech Enthusiast</text></g>
 <rect x="60" y="214" width="2" height="26" fill="#70dfff"><animate attributeName="x" values="60;452;452;60" keyTimes="0;.4;.9;1" dur="9s" repeatCount="indefinite"/><animate attributeName="opacity" values="1;0;1" dur=".9s" repeatCount="indefinite"/></rect>
