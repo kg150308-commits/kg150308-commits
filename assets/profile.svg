@@ -238,7 +238,7 @@
 <circle cx="34" cy="36" r="4.5" fill="#65e5ff"><animate attributeName="opacity" values="1;.35;1" dur="2.4s" repeatCount="indefinite"/></circle>
 <path d="M46 36H58" stroke="#65e5ff" stroke-opacity=".6"/>
 <text x="68" y="46" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="28" font-weight="800" fill="url(#nameGrad)" letter-spacing=".5">About Me</text>
-<text x="940" y="44" text-anchor="end" font-family="'Courier New',Consolas,Menlo,monospace" font-size="12" fill="#7D8794" letter-spacing="1">// about.js</text>
+<text x="940" y="44" text-anchor="end" font-family="'Courier New',Consolas,Menlo,monospace" font-size="12" fill="#7D8794" letter-spacing="1"></text>
 <path d="M60 66H940M60 60v12M940 60v12" stroke="#7D8794" stroke-opacity=".5" fill="none"/>
 <path d="M100,66v-4M140,66v-4M180,66v-4M220,66v-4M260,66v-4M300,66v-4M340,66v-4M380,66v-4M420,66v-4M460,66v-4M500,66v-4M540,66v-4M580,66v-4M620,66v-4M660,66v-4M700,66v-4M740,66v-4M780,66v-4M820,66v-4M860,66v-4M900,66v-4" stroke="#7D8794" stroke-opacity=".3"/>
 <g><rect x="-120" y="65" width="120" height="2" fill="#65e5ff" opacity=".9"/><circle cx="0" cy="66" r="3.5" fill="#fff" filter="url(#dot)"/><circle cx="0" cy="66" r="2" fill="#fff"/>
@@ -248,7 +248,7 @@
 <circle cx="34" cy="36" r="4.5" fill="#D4FF3A"><animate attributeName="opacity" values="1;.35;1" dur="2.4s" repeatCount="indefinite"/></circle>
 <path d="M46 36H58" stroke="#D4FF3A" stroke-opacity=".6"/>
 <text x="68" y="46" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="28" font-weight="800" fill="url(#nameGrad)" letter-spacing=".5">Tech Stack</text>
-<text x="940" y="44" text-anchor="end" font-family="'Courier New',Consolas,Menlo,monospace" font-size="12" fill="#7D8794" letter-spacing="1">// stack.config</text>
+<text x="940" y="44" text-anchor="end" font-family="'Courier New',Consolas,Menlo,monospace" font-size="12" fill="#7D8794" letter-spacing="1"></text>
 <path d="M60 66H940M60 60v12M940 60v12" stroke="#7D8794" stroke-opacity=".5" fill="none"/>
 <path d="M100,66v-4M140,66v-4M180,66v-4M220,66v-4M260,66v-4M300,66v-4M340,66v-4M380,66v-4M420,66v-4M460,66v-4M500,66v-4M540,66v-4M580,66v-4M620,66v-4M660,66v-4M700,66v-4M740,66v-4M780,66v-4M820,66v-4M860,66v-4M900,66v-4" stroke="#7D8794" stroke-opacity=".3"/>
 <g><rect x="-120" y="65" width="120" height="2" fill="#D4FF3A" opacity=".9"/><circle cx="0" cy="66" r="3.5" fill="#fff" filter="url(#dot)"/><circle cx="0" cy="66" r="2" fill="#fff"/>
@@ -258,7 +258,7 @@
 <circle cx="34" cy="36" r="4.5" fill="#FF6B35"><animate attributeName="opacity" values="1;.35;1" dur="2.4s" repeatCount="indefinite"/></circle>
 <path d="M46 36H58" stroke="#FF6B35" stroke-opacity=".6"/>
 <text x="68" y="46" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="28" font-weight="800" fill="url(#nameGrad)" letter-spacing=".5">Projects</text>
-<text x="940" y="44" text-anchor="end" font-family="'Courier New',Consolas,Menlo,monospace" font-size="12" fill="#7D8794" letter-spacing="1">// mission-control</text>
+<text x="940" y="44" text-anchor="end" font-family="'Courier New',Consolas,Menlo,monospace" font-size="12" fill="#7D8794" letter-spacing="1"></text>
 <path d="M60 66H940M60 60v12M940 60v12" stroke="#7D8794" stroke-opacity=".5" fill="none"/>
 <path d="M100,66v-4M140,66v-4M180,66v-4M220,66v-4M260,66v-4M300,66v-4M340,66v-4M380,66v-4M420,66v-4M460,66v-4M500,66v-4M540,66v-4M580,66v-4M620,66v-4M660,66v-4M700,66v-4M740,66v-4M780,66v-4M820,66v-4M860,66v-4M900,66v-4" stroke="#7D8794" stroke-opacity=".3"/>
 <g><rect x="-120" y="65" width="120" height="2" fill="#FF6B35" opacity=".9"/><circle cx="0" cy="66" r="3.5" fill="#fff" filter="url(#dot)"/><circle cx="0" cy="66" r="2" fill="#fff"/>
@@ -268,7 +268,7 @@
 <circle cx="34" cy="36" r="4.5" fill="#B392F0"><animate attributeName="opacity" values="1;.35;1" dur="2.4s" repeatCount="indefinite"/></circle>
 <path d="M46 36H58" stroke="#B392F0" stroke-opacity=".6"/>
 <text x="68" y="46" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="28" font-weight="800" fill="url(#nameGrad)" letter-spacing=".5">GitHub Statistics</text>
-<text x="940" y="44" text-anchor="end" font-family="'Courier New',Consolas,Menlo,monospace" font-size="12" fill="#7D8794" letter-spacing="1">// telemetry</text>
+<text x="940" y="44" text-anchor="end" font-family="'Courier New',Consolas,Menlo,monospace" font-size="12" fill="#7D8794" letter-spacing="1"></text>
 <path d="M60 66H940M60 60v12M940 60v12" stroke="#7D8794" stroke-opacity=".5" fill="none"/>
 <path d="M100,66v-4M140,66v-4M180,66v-4M220,66v-4M260,66v-4M300,66v-4M340,66v-4M380,66v-4M420,66v-4M460,66v-4M500,66v-4M540,66v-4M580,66v-4M620,66v-4M660,66v-4M700,66v-4M740,66v-4M780,66v-4M820,66v-4M860,66v-4M900,66v-4" stroke="#7D8794" stroke-opacity=".3"/>
 <g><rect x="-120" y="65" width="120" height="2" fill="#B392F0" opacity=".9"/><circle cx="0" cy="66" r="3.5" fill="#fff" filter="url(#dot)"/><circle cx="0" cy="66" r="2" fill="#fff"/>

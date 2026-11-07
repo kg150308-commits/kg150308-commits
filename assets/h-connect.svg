@@ -30,7 +30,7 @@
 <circle cx="52" cy="34" r="11" fill="url(#planet)" stroke="#FF7EB6" stroke-width="1.2"/>
 <ellipse cx="52" cy="34" rx="20" ry="6" fill="none" stroke="#FF7EB6" stroke-width="1.4" transform="rotate(-25 52 34)"><animate attributeName="stroke-opacity" values="1;.35;1" dur="3s" repeatCount="indefinite"/></ellipse>
 <text x="86" y="44" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="28" font-weight="800" fill="url(#nameGrad)" letter-spacing=".5">Connect With Me</text>
-<text x="964" y="42" text-anchor="end" font-family="'Courier New',Consolas,Menlo,monospace" font-size="12" fill="#7D8794" letter-spacing="1">// open-channel</text>
+<text x="964" y="42" text-anchor="end" font-family="'Courier New',Consolas,Menlo,monospace" font-size="12" fill="#7D8794" letter-spacing="1"></text>
 <path d="M36 64H964M36 58v12M964 58v12" stroke="#7D8794" stroke-opacity=".5" fill="none"/>
 <path d="M76,64v-4M116,64v-4M156,64v-4M196,64v-4M236,64v-4M276,64v-4M316,64v-4M356,64v-4M396,64v-4M436,64v-4M476,64v-4M516,64v-4M556,64v-4M596,64v-4M636,64v-4M676,64v-4M716,64v-4M756,64v-4M796,64v-4M836,64v-4M876,64v-4M916,64v-4M956,64v-4" stroke="#7D8794" stroke-opacity=".3"/>
 <g><rect x="-120" y="63" width="120" height="2" fill="url(#tr2)"/><circle cx="0" cy="64" r="3.5" fill="#fff" filter="url(#dot)"/><circle cx="0" cy="64" r="2" fill="#fff"/>
